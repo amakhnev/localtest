@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.sap.xi.mapping.api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.sap.xi.mapping.tool.lib_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.sap.xpi.ib.mapping.lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

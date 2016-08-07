@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="com.integrace.localtest:jar">
+    <output-path>$PROJECT_DIR$/build/artifacts/com_integrace_localtest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="com.integrace.localtest.jar">
+        <element id="module-output" name="LocalTest" />
+      </element>
+      <element id="library" level="project" name="com.sap.xi.mapping.api" />
+    </root>
+  </artifact>
+</component>
