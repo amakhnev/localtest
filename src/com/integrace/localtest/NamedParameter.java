@@ -144,6 +144,10 @@ public enum NamedParameter {
 		_instance.direction = direction;
 		return _instance;
 	}
+
+	public static NamedParameter customNamedParameter(String name, String namespace, ParameterClass parameterClass,  ParameterDirection direction){
+		return customNamedParameter( name,  namespace,  parameterClass,false,  direction);
+	}
 	
 	
 	
